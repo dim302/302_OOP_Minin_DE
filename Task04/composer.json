@@ -1,0 +1,16 @@
+{
+    "name": "admin/task04",
+    "autoload": {
+        "psr-4": {
+           "App\\": "src/"
+        },
+		        "files": ["src/Test.php"]
+    },
+    "authors": [
+        {
+            "name": "dim302",
+            "email": "125114824+dim302@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
