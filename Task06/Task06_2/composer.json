@@ -1,0 +1,17 @@
+{
+    "name": "admin/task06_2",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Task062\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dim302",
+            "email": "125114824+dim302@users.noreply.github.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.2"
+    }
+}
